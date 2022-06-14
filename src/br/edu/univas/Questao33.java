@@ -1,6 +1,5 @@
 package br.edu.univas;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Questao33 {
